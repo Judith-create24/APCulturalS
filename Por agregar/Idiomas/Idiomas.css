@@ -1,0 +1,34 @@
+
+
+/*=============================================
+SECCION iconos del traductor de plantilla de clase
+=============================================*/
+
+header #logo{
+	font-family: 'Kaushan Script', cursive;
+	font-size:50px;
+	text-align:center;
+	line-height:60px;
+}
+
+header center p{
+	text-align: center;
+	width:42px;
+	line-height:42px;
+	border-radius:100%;	
+	background:#ccc;
+	color:white;
+}
+
+header center#icono1 p{
+	background:blue;
+}
+
+header center#icono2 p{
+	background:green;
+}
+
+header center#icono3 p{
+	background:red;
+}
+
